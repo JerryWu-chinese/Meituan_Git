@@ -4,7 +4,7 @@ this is a test
 
 ## Available Scripts
 
-In the project directory, you can run:
+77778888
 
 ### `npm start`
 
